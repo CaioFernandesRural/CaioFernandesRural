@@ -1,7 +1,7 @@
 # Coé menó🤝
 
 - 🔭 Desempregado apenas.
-- 🌱 Apanhando pra C
+- 🌱 Apanhando pra C e de tudo um pouco
 
 <div>
   <a href="https://github.com/CaioFernandesRural">

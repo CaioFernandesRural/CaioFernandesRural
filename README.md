@@ -1,7 +1,7 @@
 # Coé menó🤝
 
 - 🔭 Desempregado apenas.
-- 🌱 CEO de C
+- 🌱 Em busca do JavaScipt
 
 <div>
   <a href="https://github.com/CaioFernandesRural">

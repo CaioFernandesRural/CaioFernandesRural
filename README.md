@@ -5,9 +5,9 @@
 
 <div>
   <a href="https://github.com/CaioFernandesRural">
-   <img align="right" alt="pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/860171597000474655/962367741719887902/20220409_1030351.gif">
+   <img align="right" alt="pic" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/f3IcBYfjyZto1cf6M2/giphy.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioFernandesRural&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFernandesRural&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFernandesRural&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
  <div style="display: inline_block"><br>

@@ -2,6 +2,7 @@
 
 - 🔭 Desempregado apenas.
 - 🌱 Em busca do JavaScipt
+- 😎 Usuário de Linux
 
 <div>
   <a href="https://github.com/CaioFernandesRural">

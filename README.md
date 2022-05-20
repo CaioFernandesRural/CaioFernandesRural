@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/CaioFernandesRural">
-   <img align="right" alt="pic" height="250" style="border-radius:50px;" src="[https://media.giphy.com/media/f3IcBYfjyZto1cf6M2/giphy.gif](https://giphy.com/gifs/anime-evangelion-neon-genesis-f3IcBYfjyZto1cf6M2?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)">
+   <img align="right" alt="pic" height="250" style="border-radius:50px;" src="giphy.webp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioFernandesRural&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFernandesRural&layout=compact&langs_count=7&theme=radical"/>
 </div>

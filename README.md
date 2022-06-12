@@ -1,7 +1,7 @@
 # Coé menó🤝
 
 - 🔭 Desempregado apenas.
-- 🌱 Em busca do JavaScipt
+- 🌱 Sendo torturado pelo java
 - 😎 Usuário de Linux
 
 <div>

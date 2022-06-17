@@ -1,7 +1,7 @@
 # Coé menó🤝
 
-- 🔭 Desempregado apenas.
-- 🌱 Sendo torturado pelo java
+- 🔭 Oferecendo apoio técnico ao LabSAFE UFRRJ
+- 🌱 Mais novo amigo do java
 - 😎 Usuário de Linux
 
 <div>

@@ -2,6 +2,7 @@
 
 - 🔭 Oferecendo apoio técnico ao LabSAFE UFRRJ
 - 🌱 Mais novo amigo do java
+-  Curto um C
 - 😎 Usuário de Linux
 
 <div>

@@ -1,7 +1,7 @@
 # Coé menó🤝
 
 - 🔭 Oferecendo apoio técnico ao LabSAFE UFRRJ
-- 🌱 Mais novo amigo do java
+- 🌱 Aprendendo GO
 -  Curto um C
 - 😎 Usuário de Linux
 

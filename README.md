@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/CaioFernandesRural">
-   <img align="right" alt="pic" height="250" style="border-radius:50px;" src="ezgif.com-gif-maker.webp">
+   <img align="right" alt="pic" height="225" style="border-radius:50px;" src="ezgif.com-gif-maker.webp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioFernandesRural&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFernandesRural&layout=compact&langs_count=7&theme=radical"/>
 </div>

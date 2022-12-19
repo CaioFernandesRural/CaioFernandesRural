@@ -1,8 +1,8 @@
 # Coé menó🤝
 
 - 🔭 Oferecendo apoio técnico à pesquisas na UFRRJ
-- 🌱 Aprendendo GO
--  Curto um C
+- 🌱 Aprendendo GO e PHP
+-  Curto um C (eu não lembro de ter feito tanto C mas parentemente..)
 - 😎 Usuário de Linux
 
 <div>

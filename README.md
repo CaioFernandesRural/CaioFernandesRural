@@ -2,7 +2,7 @@
 
 - 🔭 Oferecendo apoio técnico à pesquisas na UFRRJ
 - 🌱 Aprendendo GO e PHP
--  Curto um C (eu não lembro de ter feito tanto C mas parentemente..)
+-  Curto um C (eu não lembro de ter feito tanto C mas aparentemente..)
 - 😎 Usuário de Linux
 
 <div>

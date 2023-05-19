@@ -1,7 +1,7 @@
 # Coé menó🤝
 
 - 🔭 Oferecendo apoio técnico à pesquisas na UFRRJ
-- 🌱 Aprendendo GO
+- 🌱 Aperfeiçoando Laravel
 - ❤️ Debugging
 - 😎 Usuário de Linux
 
